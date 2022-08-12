@@ -4,6 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Globe Virus Simulation
 # Empty boiler globe
-<p align="center">
-  <img src="https://trello.com/1/cards/62f541853549de008b895fd6/attachments/62f5418ff0110a00f158db32/previews/62f54190f0110a00f158e1d8/download/Untitled.png" width="350" title="hover text">
-</p>
+![Screen Shot 2022-08-11 at 17 07 08](https://user-images.githubusercontent.com/63534137/184265806-e27c28f7-4fdb-411b-b82e-e59eb9f69a04.png)
