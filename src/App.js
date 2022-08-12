@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Globe from 'react-globe.gl';
 
@@ -6,8 +5,7 @@ import Globe from 'react-globe.gl';
 function App() {
 	return (
 		<div >
-			<Globe
-			/>
+			<Globe/>
 		</div>
 	);
 }
